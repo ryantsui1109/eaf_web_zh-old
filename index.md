@@ -12,4 +12,4 @@ EAF is only a GUI, so any device that has ADB or fastboot commands is supported.
 - get fastboot stored variables
 - switch between A/B slots
 - flash zips using PC  
-all of these operations above can be done with mouses without typing commands!
+All of these operations above can be done with mouses without typing commands!

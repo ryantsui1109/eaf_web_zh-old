@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-title: Easy ADB and fastboot
+title: Easy ADB and fastboot (EAF)
 description: a GUI tool for easier using ADB and fastboot
-show_downloads: false
+show_downloads: true
