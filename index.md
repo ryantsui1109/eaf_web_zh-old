@@ -1,15 +1,16 @@
-## What is EAF?
-EAF is a GUI tool of ADB (Android Debug Bridge) and fastboot based on Electron.
+## EAF是什麼？
+EAF是基於Electron打造的圖形化ADB和fastboot工具
 
-## Which devices does EAF support?
-EAF is only a GUI, so any device that has ADB or fastboot commands is supported.
+## EAF支援哪些裝置？
+EAF只是圖形界面，任何支援adb或fastboot指令的裝置皆可使用
 
-## Features of EAF
-- common used ADB and fastboot commands
-- power management (reboot to system, recovery, bootloader ,etc.)
-- flash/erase partition
-- run flashing/oem commands
-- get fastboot stored variables
-- switch between A/B slots
-- flash zips using PC  
-All of these operations above can be done with mouses without typing commands!
+## EAF的功能
+- 常見ADB和fastboot指令
+- 電源管理（重啟到系統、還原、bootloader等模式）
+- 刷入、清除分區
+- 執行flashing、oem指令
+- 取得fastboot變數
+- 切換A、B槽
+- 用PC給手機安裝zip
+
+有了EAF，以上功能皆可用滑鼠操作實現~
