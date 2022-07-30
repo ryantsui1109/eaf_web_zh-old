@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Easy ADB and fastboot
+description: a GUI tool for easier using ADB and fastboot
+show_downloads: false
