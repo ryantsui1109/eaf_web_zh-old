@@ -1,3 +1,5 @@
+For english version, please [click me](https://ryantsui1109.github.io/eaf_web_en)
+
 ## EAF是什麼？
 EAF是基於Electron打造的圖形化ADB和fastboot工具
 
