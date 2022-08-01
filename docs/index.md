@@ -1,4 +1,4 @@
-# Maybe this is the most the complete user guide of EAF
+# 可能是最齊全的EAF使用說明
 [刷入和擦除分區](./flash)
 
 [刷入zip和OTA更新](./flash#flashzip)
