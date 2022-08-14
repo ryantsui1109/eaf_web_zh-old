@@ -5,6 +5,10 @@
 
 [安裝magisk（面具root）](./magisk)
 
-關於A/B分區
+[關於A/B分區](./abslot)
+
+對多台裝置的支援
+
+取得 fastboot 中儲存的變數
 
 解鎖、上鎖bootloader
