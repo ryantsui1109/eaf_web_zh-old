@@ -11,4 +11,4 @@
 
 取得 fastboot 中儲存的變數
 
-解鎖、上鎖bootloader
+[解鎖、上鎖bootloader](./bl)
