@@ -9,6 +9,6 @@
 
 對多台裝置的支援
 
-取得 fastboot 中儲存的變數
+[取得 fastboot 中儲存的變數](./fastboot_getvar)
 
 [解鎖、上鎖bootloader](./bl)
